@@ -12,29 +12,11 @@ The main purpose is to 'ONLY get the data we need'. The challenge is on the data
 
 Framework  : 
 
-1. Install cheerio to select html tags 
-2. Remove unnecessary elements from the text file (this will also help if we need to get any of them later on)
-3. Select the first child of the html tag that holds value of street addresses, split string by ',' and remove white spaces. 
-4. Read & Write the files 
+1. Preparing / formatting data from previous text file (week2.txt) I neeeded to modify the previous file by using this below script and run to rewrite 'week2.txt' file
+2. Running the 'app.js' using the starter code provided by Aaron, the course instructor. We already have a beautifully formatted data from #1, we'll use the same data for storing the streeet addresses in the array. I also stored the data on week3.json in order to limit the amount of running time for the program. This will help me when I need to recheck/rerun the code. 
+3. I created another .js file inorder to test & run the .json files (for both read and write). In this step, I have spent a lot of timee on picking the right data types and how to write them on another .json file. You can see below how I resolve the issue on the script section. 
+4. Return Arrays in Final_week3.json 
 
-First set up the environment, Install these by open in terminal : 
-
-```bash
-npm install -g npm
-```
-
-Or check if it's already installed : 
-```bash
-node -v
-npm -v
-```
-Install cheerio and read data
-```bash
-npm install cheerio
-```
-```bash
-mkdir data
-```
 
 ## Script
 
