@@ -14,7 +14,7 @@ Framework  :
 
 1. Preparing / formatting data from previous text file (week2.txt) I neeeded to modify the previous file by using this below script and run to rewrite 'week2.txt' file
 2. Running the 'app.js' using the starter code provided by Aaron, the course instructor. We already have a beautifully formatted data from #1, we'll use the same data for storing the streeet addresses in the array. I also stored the data on week3.json in order to limit the amount of running time for the program. This will help me when I need to recheck/rerun the code. 
-3. I created another .js file inorder to test & run the .json files (for both read and write). In this step, I have spent a lot of timee on picking the right data types and how to write them on another .json file. You can see below how I resolve the issue on the script section. 
+3. I created another .js file inorder to test & run the .json files (for both read and write). In this step, I have spent a lot of time on picking the right data( Thanks to https://www.youtube.com/watch?v=_ApRMRGI-6g, this explains step-by-step on how we can use the '{' to pick data. types and how to write them on another .json file. You can see below how I resolve the issue on the script section. 
 4. Return Arrays in Final_week3.json **Note : for this process, I had to solve issue by pasting arrays in the console log to http://jsoneditoronline.org/#left=local.tafido&right=local.suquye ** 
 
 
