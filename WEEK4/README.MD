@@ -19,14 +19,21 @@ The components :
 
 - Addresses : Each location has only one address, It would be more appropriate to put 'Address' in the same level as 'Location or Building name'. The information about each addresses is very static, meaning that it is not as complex as meeting's details and the way we can store data is very simple. 
 
+![](Week4Images/Addresses.jpg)
 
 3. Tabs on Excel : In the excel file, I created 4 Tabs which are the followings ... 
 
 - Details About Meetings : I want to divide into 2 tables because there are some level of uncertainties in the nature of this data set. Since the meetings could be arranged in any building and each one is also highly detailed. It seems more logical to separate and link the data by the name of the building. 
+- 
+![](Week4Images/Details%20About%20Meetings.jpg)
+
 
 - Details About Addresses : Using the same idea as above, the linkage between meetings and addresses is 'Building Name'. Thus, in this tab, it's only have 3 rows that only has the building related information. Separating the addresses in another table would also decrease the chance of data formatting errors because this information would not be edited frequently. 
 
+ ![](Week4Images/DetailsAboutAddresses.jpg)
+
 - Components : this tab consists of many tables that are basically technically 'arrays' They can be treated as isolated components so wee can pull data easily from these isolated components. 
+ ![](Week4Images/Components.jpg)
 
 - Research : this tab has multiple resources of what should be considered when we design the website later on, it's important to keep in mind on what the frequently asked questions are for this specific type of directory. 
 
