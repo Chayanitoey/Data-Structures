@@ -15,7 +15,7 @@ The components :
 - Meetings : 
 'Meeting',in this case, could be plural if the location has multiple meetings. But  meetings always connect with a 'location' where they take place.  The time pieces should also be linked here since every meeting group could meet more than 1 time per week. It would be appropriate to have another group differentiating each nodes.  
 
-https://github.com/Chayanitoey/Data-Structures/blob/main/WEEK4/Week4Images/Meeting1.jpg?raw=true
+i[](WEEK4/Week4Images/Meeting1.jpg)
 
 - Addresses : Each location has only one address, It would be more appropriate to put 'Address' in the same level as 'Location or Building name'. The information about each addresses is very static, meaning that it is not as complex as meeting's details and the way we can store data is very simple. 
 
