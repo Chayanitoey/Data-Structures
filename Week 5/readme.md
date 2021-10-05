@@ -12,7 +12,7 @@ That’s said, to produce the well-structured directory of these shows, I would 
 
 In the fashion world, everyone updates their designs seasonally- and usually there are 2 main seasons that are more influential than others, which are ‘Fall-Winter’ and ‘Spring-Summer’. Each brand would produce their clothing or accessories collection seasonally and each brand could have clothing for Men and Women and they could also have images that showing full-look or close-up look so viewers can see the product in detail. As the data gets complex, I’d rather use this chart to explain :
 
-![](/Variables.jpg)
+![](Variables.jpg)
 
 The screenshot above shows the data hierarchy and the connection between each variables.
 
@@ -34,10 +34,10 @@ To keep things in line and eliminate redundancy, I would say ‘Normalized data�
 
 The outcome could possibly look like this :
 
-![](/final product.jpg)
+![](final product.jpg)
 
 Edited Reference from : [vogue] (https://www.vogue.com/fashion-shows)
 
 Users will have the full ability to search on anything since this is built in Nosql database.
 
-![](/Database Diagram.jpg)
+![](Database Diagram.jpg)
