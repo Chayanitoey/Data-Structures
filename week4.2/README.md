@@ -91,7 +91,7 @@ client.query(thisQuery, (err, res) => {
 
 
 
-## Out come
+## Outcome
 
 ```javascript
 {
