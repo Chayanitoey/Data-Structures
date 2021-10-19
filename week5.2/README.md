@@ -131,7 +131,7 @@ console.log(params);
 ## Outcome
 
 Insert screenshot 
-![](week5.2/DynamoDB.jpg)
+![Outcome](DynamoDB.jpg)
 
 >> 
 
