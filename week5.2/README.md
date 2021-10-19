@@ -128,9 +128,10 @@ console.log(params);
 ```
 
 
-## Out come
+## Outcome
 
 Insert screenshot 
+![](week5.2/DynamoDB.jpg)
 
 >> 
 
