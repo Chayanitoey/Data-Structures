@@ -51,7 +51,10 @@ client.query(thisQuery, (err, res) => {
 ;
 
 ```
+## Outcome Part 1
 
+Insert screenshot 
+![week6_1](Week6_1.jpg)
 
 
 ## Part Two (Week6_2) 
@@ -98,9 +101,10 @@ dynamodb.query(params, function(err, data) {
 ```
 
 
-## Out come
+## Outcome Part 2
 
 Insert screenshot 
+![week6_2](Week6.2results.jpg)
 
 
 
