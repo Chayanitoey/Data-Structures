@@ -34,10 +34,10 @@ To keep things in line and eliminate redundancy, I would say â€˜Normalized dataâ
 
 The outcome could possibly look like this :
 
-![](final_product.jpg)
+![FinalProduct](final_product.jpg)
 
 Edited Reference from : [vogue] (https://www.vogue.com/fashion-shows)
 
 Users will have the full ability to search on anything since this is built in Nosql database.
 
-![](Database_Diagram.jpg)
+![Database](Database_Diagram.jpg)
