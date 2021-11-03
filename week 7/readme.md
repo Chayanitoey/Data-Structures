@@ -131,6 +131,7 @@ Then, I ran the ***'addGeocodes.js'*** script file to fetch ***'longtitudes'*** 
 
 ## Contributing
 - Chay Thawaranont 
+- Jessie Han (Advisor / TA)
 - Aaron Hill (Advisor / Instructor)
 
 ## Related links
