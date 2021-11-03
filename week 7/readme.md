@@ -123,9 +123,9 @@ Then, I ran the ***'addGeocodes.js'*** script file to fetch ***'longtitudes'*** 
 
 
 ## Revise a diagram from week 4
-![This is an image](/MeetingTable.jpg)
+![This is an image](MeetingTable.jpg)
 
-![This is an image](/AddressesTable.jpg)
+![This is an image](AddressesTable.jpg)
 
 
 
